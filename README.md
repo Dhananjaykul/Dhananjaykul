@@ -24,6 +24,11 @@
 
 Feel free to check out my [Hashnode blog](https://dhananjaykulkarni.hashnode.dev/) and connect with me on [LinkedIn](https://www.linkedin.com/in/dhananjay-kulkarni-ba54a81b0/).
 
+![Alt Text](./devOps-cloud-native.gif)
+
+
+
+
 
 
 
