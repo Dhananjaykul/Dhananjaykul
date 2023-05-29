@@ -22,7 +22,10 @@
 
 🔎 Seeking an internship opportunity to gain hands-on experience, learn from industry professionals, and make a positive impact on organizational growth. Let's connect and explore how my skills can contribute to your team's success.
 
-Feel free to check out my [Hashnode blog](https://dhananjaykulkarni.hashnode.dev/) and connect with me on [LinkedIn](https://www.linkedin.com/in/dhananjay-kulkarni-ba54a81b0/).
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-kulkarni-ba54a81b0/)
+
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://dhananjaykulkarni.hashnode.dev/)
+
 
 ![Alt Text](./devOps-cloud-native.gif)
 
