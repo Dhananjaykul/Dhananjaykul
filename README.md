@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Kulkarni</h1>
 <h3 align="center">A passionate Devops & Cloud Practioner from India</h3>
-<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkzzlNn70sb5wG4lcI7Z1X3TrbZjxQB2UCQ&usqp=CAU">
+<img src = "https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjaykul&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaykul" /> </p>
 
 - 🌱 I’m currently learning **Devops & Cloud**
