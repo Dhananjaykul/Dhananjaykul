@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Devops & Cloud Practioner from India</h3>
 <img src = "https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjaykul&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaykul" /> </p>
-<p align="right"> <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif" alt="dhananjaykul" /> </p>
+
 - 🌱 I’m currently learning **Devops & Cloud**
 
 - 📝 I regularly write articles on [https://dhananjaykulkarni.hashnode.dev/](https://dhananjaykulkarni.hashnode.dev/)
