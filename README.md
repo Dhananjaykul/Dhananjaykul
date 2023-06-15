@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **walsekardhanu61610@gmail.com**
 
-- ⚡ Fun fact **I like Mangoes**
+- ⚡ Fun fact **Cloud are made up of Linux**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
